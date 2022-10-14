@@ -4,7 +4,7 @@ if [ $? -ne 0 ];then
     exit 1
 fi
 python sock.py &
-./bin/replish --server
+./bin/replish
 #GOPATH=/home/runner/go go get github.com/onsi/ginkgo/ginkgo
 #go clean -testcache
 #/home/runner/go/bin/ginkgo -r 
