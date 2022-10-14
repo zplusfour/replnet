@@ -1,4 +1,4 @@
-# replnet [![Run on Replit](https://replit.com/badge/github/ReplDepot/replnet)](https://replit.com/github/ReplDepot/replnet)
+# replnet [![Run on Replit](https://replit.com/badge/github/leon332157/replnet)](https://replit.com/github/leon332157/replnet)
 
 ## What?
 * A repl to repl networking tool
